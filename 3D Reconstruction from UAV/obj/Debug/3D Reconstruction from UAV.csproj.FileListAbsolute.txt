@@ -1,0 +1,19 @@
+C:\Users\BenzRST\source\repos\3D Reconstruction from UAV\3D Reconstruction from UAV\bin\Debug\3D Reconstruction from UAV.exe.config
+C:\Users\BenzRST\source\repos\3D Reconstruction from UAV\3D Reconstruction from UAV\bin\Debug\3D Reconstruction from UAV.exe
+C:\Users\BenzRST\source\repos\3D Reconstruction from UAV\3D Reconstruction from UAV\bin\Debug\3D Reconstruction from UAV.pdb
+C:\Users\BenzRST\source\repos\3D Reconstruction from UAV\3D Reconstruction from UAV\obj\Debug\3D Reconstruction from UAV.csprojAssemblyReference.cache
+C:\Users\BenzRST\source\repos\3D Reconstruction from UAV\3D Reconstruction from UAV\obj\Debug\_3D_Reconstruction_from_UAV.Form1.resources
+C:\Users\BenzRST\source\repos\3D Reconstruction from UAV\3D Reconstruction from UAV\obj\Debug\_3D_Reconstruction_from_UAV.Properties.Resources.resources
+C:\Users\BenzRST\source\repos\3D Reconstruction from UAV\3D Reconstruction from UAV\obj\Debug\3D Reconstruction from UAV.csproj.GenerateResource.cache
+C:\Users\BenzRST\source\repos\3D Reconstruction from UAV\3D Reconstruction from UAV\obj\Debug\3D Reconstruction from UAV.csproj.CoreCompileInputs.cache
+C:\Users\BenzRST\source\repos\3D Reconstruction from UAV\3D Reconstruction from UAV\obj\Debug\3D Reconstruction from UAV.exe
+C:\Users\BenzRST\source\repos\3D Reconstruction from UAV\3D Reconstruction from UAV\obj\Debug\3D Reconstruction from UAV.pdb
+C:\Users\BenzRST\source\repos\3D Reconstruction from UAV\3D Reconstruction from UAV\bin\Debug\OpenTKLib.dll
+C:\Users\BenzRST\source\repos\3D Reconstruction from UAV\3D Reconstruction from UAV\bin\Debug\OpenTK.dll
+C:\Users\BenzRST\source\repos\3D Reconstruction from UAV\3D Reconstruction from UAV\bin\Debug\OpenTK.GLControl.dll
+C:\Users\BenzRST\source\repos\3D Reconstruction from UAV\3D Reconstruction from UAV\bin\Debug\OpenTKLib.pdb
+C:\Users\BenzRST\source\repos\3D Reconstruction from UAV\3D Reconstruction from UAV\bin\Debug\OpenTKLib.dll.config
+C:\Users\BenzRST\source\repos\3D Reconstruction from UAV\3D Reconstruction from UAV\obj\Debug\3D Reconstruction from UAV.csproj.CopyComplete
+C:\Users\BenzRST\source\repos\3D Reconstruction from UAV\3D Reconstruction from UAV\bin\Debug\OpenTK.pdb
+C:\Users\BenzRST\source\repos\3D Reconstruction from UAV\3D Reconstruction from UAV\bin\Debug\OpenTK.xml
+C:\Users\BenzRST\source\repos\3D Reconstruction from UAV\3D Reconstruction from UAV\bin\Debug\OpenTK.dll.config
